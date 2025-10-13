@@ -24,15 +24,15 @@ Solutions : AgentSpace and coversational Agents.
 
 ### ADK allows to build mutli-agent system
 
-                              |--------> Sub_agent
-                              |--------> Sub_agent ........ Tool
-                              |--------> Sub_agent
+                                |--------> Sub_agent
+                                |--------> Sub_agent ........ Tool
+                                |--------> Sub_agent
                               
-root Agent ---> Sub Agent --> |
+ |root Agent ---> Sub Agent --> |
 
-                              |--------> Sub_agent
-                              |--------> Sub_agent ........ Tool
-                              |--------> Sub_agent
+                                |--------> Sub_agent
+                                |--------> Sub_agent ........ Tool
+                                |--------> Sub_agent
 
 Tool could a function, mathematcal calucation, or external API.
 
