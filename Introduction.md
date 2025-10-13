@@ -39,10 +39,12 @@ Tool could a function, mathematcal calucation, or external API.
 Run an agentic AI code from github or colab on your local and notice how adk interacts. 
 The couple of example you main notice and the chatbot that companies develop
 and ask what you need information with
-Account
-billing
+- Account
+- billing
+  
 once you say billing then billing subagent is called and handsover the function call there
-Lastest Bill
-Payment History
-statements
+- Lastest Bill
+- Payment History
+- Statements
+  
 Further you keep on going into subagent to perform action. 
