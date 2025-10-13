@@ -27,7 +27,9 @@ Solutions : AgentSpace and coversational Agents.
                               |--------> Sub_agent
                               |--------> Sub_agent ........ Tool
                               |--------> Sub_agent
+                              
 root Agent ---> Sub Agent --> |
+
                               |--------> Sub_agent
                               |--------> Sub_agent ........ Tool
                               |--------> Sub_agent
