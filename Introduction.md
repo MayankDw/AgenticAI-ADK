@@ -50,3 +50,11 @@ once you say billing then billing subagent is called and handsover the function 
 Further you keep on going into subagent to perform action. 
 
 These main_Agent can call the separate python file agent itself that is a whole agent in itslef. 
+
+adk_tools/crewai_tool_agent
+agent.py file --> crewai_tool_agent
+CrewaiTool class from ADK and the ScrapeWebsiteTool from crewai_tools.
+
+adk_tools/function_tool_agent.
+get_date() and write_journal_entry()
+
