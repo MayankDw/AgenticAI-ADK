@@ -64,3 +64,14 @@ adk_tools/vertexai_search_tool_agent/agent.py
 
 Using AgentTool to integrate search tools with other tools
 Search tools come with an implementation limitation in that you cannot mix search tools and non-search tools in the same agent. To get around this, you can wrap an agent with a search tool with an AgentTool, and then use that agent-as-a-tool to conduct searches alongside other tools.
+
+
+https://www.skills.google/focuses/125061?parent=catalog
+Build Multi-Agent Systems with ADK
+
+1) Parent agent -- subagent -- subagent to subagent along with paralell agent
+Write stories and script on some topic
+
+
+
+
